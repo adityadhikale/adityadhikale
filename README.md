@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **adityadhikale2003@gmail.com**
 
-- ⚡ Fun fact **fUNNY😂**
+- ⚡ Fun fact **90% of my commits are ‘fix typo.’**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
