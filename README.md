@@ -1,4 +1,4 @@
-![ScreenShot](https://github.com/adityadhikale/adityadhikale/blob/main/banner2.png)
+![ScreenShot](https://github.com/adityadhikale/adityadhikale/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Dhikale</h1>
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://github.com/adityadhikale/adityadhikale/blob/main/coding.gif">
